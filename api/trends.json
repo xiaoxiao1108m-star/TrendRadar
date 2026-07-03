@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-03T21:02:46.176743+08:00",
-  "total_titles_processed": 1290,
+  "generated_at": "2026-07-03T23:56:36.730449+08:00",
+  "total_titles_processed": 1453,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 40,
       "titles": [
         {
           "title": "特朗普暗示沃什在美联储的工作不好开展 继续尝试赶走“刺头”",
@@ -55,6 +55,17 @@
           "time_info": "07时16分"
         },
         {
+          "title": "哥伦比亚总统佩特罗：特朗普此前并不知道我被列入美国财政部海外资产控制办公室（OFAC）制裁名单，特朗普表示将对此采取行动。",
+          "url": "https://flash.jin10.com/detail/20260703234037205800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
           "title": "特朗普回应获得巨额收益：不知情",
           "url": "https://flash.jin10.com/detail/20260703065333579800",
           "source": "金十数据",
@@ -72,11 +83,12 @@
           "ranks": [
             15,
             17,
-            14
+            14,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时32分 ~ 21时02分]"
+          "appearance_count": 5,
+          "time_info": "[15时32分 ~ 23时56分]"
         },
         {
           "title": "特朗普：我知道沃什想做什么，但他须做分内之事，美联储理事会可能有点“敌对”",
@@ -86,8 +98,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时32分 ~ 21时02分]"
+          "appearance_count": 4,
+          "time_info": "[15时32分 ~ 23时56分]"
+        },
+        {
+          "title": "从保守派宠儿到MAGA公敌，她为什么敢“背叛”特朗普？",
+          "url": "https://news.ifeng.com/c/8uSuVg66mIs",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "特朗普称沃什面临“有点敌意”的美联储理事会，重申将推动罢免库克",
@@ -112,6 +135,17 @@
           "time_info": "11时56分"
         },
         {
+          "title": "哥伦比亚总统佩特罗：与美国总统特朗普进行了友好交谈。",
+          "url": "https://flash.jin10.com/detail/20260703233755859800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
           "title": "特朗普发军费对比图施压北约 称美国在“单方面付出”",
           "url": "https://flash.jin10.com/detail/20260703112837367800",
           "source": "金十数据",
@@ -134,6 +168,17 @@
           "time_info": "07时16分"
         },
         {
+          "title": "哥伦比亚总统办公室：哥伦比亚总统佩特罗请求将其从制裁名单中移除，美国总统特朗普表示将“尽力而为”。",
+          "url": "https://flash.jin10.com/detail/20260703233102418800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
           "title": "特朗普称AI将超过90年代末的互联网繁荣 预计过半芯片在美生产",
           "url": "https://flash.jin10.com/detail/20260703060215958800",
           "source": "金十数据",
@@ -143,6 +188,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "哥伦比亚方面表示，佩特罗与特朗普在通话中讨论了非法作物替代问题。",
+          "url": "https://flash.jin10.com/detail/20260703232911849800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "特朗普经济幕僚哈塞特批评鲍威尔继续留在美联储",
@@ -176,6 +232,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "哥伦比亚方面表示，哥伦比亚总统佩特罗与美国总统特朗普进行了电话交谈。",
+          "url": "https://flash.jin10.com/detail/20260703232720414800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "美国总统特朗普：美光科技(MU.O)是一家“炙手可热的公司”，由一位“很棒的人”经营。",
@@ -244,6 +311,17 @@
           "time_info": "07时16分"
         },
         {
+          "title": "据美国哥伦比亚广播公司（CBS）：特朗普准备赦免一批因违反排放及清洁空气相关法规而被定罪的人士，同时仍在讨论其他潜在的赦免对象，包括“吹牛老爹”尚恩·库姆斯及其他几位知名人士。",
+          "url": "https://flash.jin10.com/detail/20260703232115968800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
           "title": "美国总统特朗普：我与埃隆·马斯克的关系非常好。",
           "url": "https://flash.jin10.com/detail/20260703054846383800",
           "source": "金十数据",
@@ -266,6 +344,17 @@
           "time_info": "11时56分"
         },
         {
+          "title": "据美国哥伦比亚广播公司（CBS）：美国总统特朗普将根据顾问建议决定赦免事宜。",
+          "url": "https://flash.jin10.com/detail/20260703231927132800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
           "title": "特朗普参加活动后直接拿走剪刀",
           "url": "https://www.toutiao.com/trending/7656820359463518259/",
           "source": "今日头条",
@@ -286,6 +375,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "据美国哥伦比亚广播公司（CBS）：美国总统特朗普定于当地时间周五召开会议，讨论可能的赦免事宜。",
+          "url": "https://flash.jin10.com/detail/20260703231839027800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "美国官员称：面向新生儿的“特朗普账户”将接受股票捐赠",
@@ -357,18 +457,19 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "伊朗总统在哈梅内伊葬礼上双手掩面",
           "url": "https://v.ifeng.com/c/8uSml4XgzRh",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时02分 ~ 23时56分]"
         },
         {
           "title": "伊朗总统出席已故最高领袖告别仪式",
@@ -377,9 +478,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
+        },
+        {
+          "title": "以总理办公室否认计划暗杀伊朗谈判代表",
+          "url": "https://flash.jin10.com/detail/20260703234542336800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "美官员曾担忧以色列暗杀伊朗谈判代表",
@@ -393,13 +505,24 @@
           "time_info": "03时45分"
         },
         {
+          "title": "伊朗议长会见中方代表，称已解决中国船只通过海峡问题",
+          "url": "https://news.ifeng.com/c/8uSnvabtNsd",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
           "title": "伊朗已开始就向日本企业出售石油进行谈判。（路透）",
           "url": "https://wallstreetcn.com/livenews/3128714",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
@@ -425,6 +548,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
+        },
+        {
+          "title": "也门胡塞武装：在沙特军机试图阻拦一架伊朗民航客机降落萨那期间，胡塞武装在也门领空对沙特军机进行了对峙。 沙特若发动进一步袭击，将“遭到对沙特机场及核心利益的打击”。",
+          "url": "https://wallstreetcn.com/livenews/3128772",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "哈梅内伊遗体告别仪式在伊朗举行",
@@ -488,7 +622,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
@@ -543,7 +677,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         }
@@ -551,7 +685,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "【早报】美股存储、半导体板块连日大跌；一批A股公司中报业绩预计大增；油价微升、黄金走强；西班牙晋级世界杯16强",
@@ -583,11 +717,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时32分 ~ 21时02分]"
+          "appearance_count": 5,
+          "time_info": "[15时32分 ~ 23时56分]"
         },
         {
           "title": "7月3日投资避雷针：美股存储、半导体板块大跌 闪迪跌超14%",
@@ -599,6 +734,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时56分 ~ 15时32分]"
+        },
+        {
+          "title": "Anthropic自研AI芯片计划引发美股半导体大跌！闪迪大跌14%，费城半导体指数两日重挫12%",
+          "url": "https://wallstreetcn.com/articles/3776091",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "金十图示：2026年07月02日（周四）美股热门股票行情一览（美股收盘）",
@@ -830,7 +976,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         }
