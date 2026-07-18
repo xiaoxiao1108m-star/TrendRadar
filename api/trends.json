@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T15:03:53.206709+08:00",
-  "total_titles_processed": 993,
+  "generated_at": "2026-07-18T17:41:13.275964+08:00",
+  "total_titles_processed": 1121,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 69,
+      "match_count": 74,
       "titles": [
         {
           "title": "伊朗发射巡航导弹打击美军舰艇",
@@ -121,7 +121,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时03分"
         },
@@ -132,7 +132,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时03分"
         },
@@ -309,6 +309,18 @@
           "time_info": "[06时00分 ~ 08时03分]"
         },
         {
+          "title": "美方：伊朗向沙特美军基地发射导弹",
+          "url": "https://www.toutiao.com/trending/7663423753623470123/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时03分 ~ 17时41分]"
+        },
+        {
           "title": "伊朗最高领袖军事顾问：美伊谅解备忘录已名存实亡",
           "url": "https://flash.jin10.com/detail/20260718043137914800",
           "source": "金十数据",
@@ -410,6 +422,17 @@
           "time_info": "[12时06分 ~ 15时03分]"
         },
         {
+          "title": "中东局势持续升温，美军连续第六夜空袭伊朗，德黑兰导弹打击海湾盟国",
+          "url": "https://wallstreetcn.com/articles/3777224",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时40分 ~ 17时41分]"
+        },
+        {
           "title": "美军称结束第七晚对伊朗打击行动",
           "url": "https://wallstreetcn.com/livenews/3135947",
           "source": "华尔街见闻-快讯",
@@ -467,6 +490,17 @@
           "time_info": "12时06分"
         },
         {
+          "title": "科威特消防局表示，在应对伊朗袭击引发的火灾时，有消防员和工作人员受伤。",
+          "url": "https://flash.jin10.com/detail/20260718165423000800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时41分"
+        },
+        {
           "title": "伊朗最高领袖顾问雷扎伊：如果美国人占领伊朗境内任何地点，我们可能会进入进攻性战争阶段，而不再只是防御性战争。",
           "url": "https://wallstreetcn.com/livenews/3135882",
           "source": "华尔街见闻-快讯",
@@ -522,6 +556,17 @@
           "time_info": "00时21分"
         },
         {
+          "title": "伊朗伊斯兰革命卫队称袭击约旦阿兹拉克美军基地",
+          "url": "https://wallstreetcn.com/livenews/3135987",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时41分"
+        },
+        {
           "title": "卡塔尔外交部：伊朗对这些侵略行为及其引发的所有后果和影响负有全部法律责任。",
           "url": "https://flash.jin10.com/detail/20260717234208634800",
           "source": "金十数据",
@@ -550,7 +595,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时03分"
         },
@@ -594,18 +639,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时03分"
-        },
-        {
-          "title": "美方：伊朗向沙特美军基地发射导弹",
-          "url": "https://www.toutiao.com/trending/7663423753623470123/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时03分"
         },
@@ -627,7 +661,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时03分"
         },
@@ -663,6 +697,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时11分"
+        },
+        {
+          "title": "伊朗南部霍尔木兹甘省遭袭 已致8名平民死亡",
+          "url": "https://flash.jin10.com/detail/20260718162349078800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时41分"
         },
         {
           "title": "中东美军基地受损情况评估：伊朗打击显著升级，哪座基地遭破坏程度最重？",
@@ -704,7 +749,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时03分"
         },
@@ -726,7 +771,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时03分"
         },
@@ -740,6 +785,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队称袭击约旦阿兹拉克美军基地",
+          "url": "https://flash.jin10.com/detail/20260718161920467800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时41分"
         },
         {
           "title": "伊朗打击位于科威特和叙利亚的美军目标",
@@ -770,7 +826,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时03分"
         },
@@ -811,7 +867,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "中方驳斥特朗普“中国干预美国大选”论调",
@@ -847,6 +903,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时21分 ~ 04时11分]"
+        },
+        {
+          "title": "白宫声称特朗普并非针对中国",
+          "url": "https://news.ifeng.com/c/8urPoLCdQ0d",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时40分 ~ 17时41分]"
         },
         {
           "title": "特朗普：6月通胀传来“好消息”，美国迎来“黄金时代”",
@@ -916,6 +983,18 @@
           "time_info": "[00时21分 ~ 02时12分]"
         },
         {
+          "title": "特朗普支持“兄终妹及”：任期结束后继续参选",
+          "url": "https://news.ifeng.com/c/8ur9XDi7eVj",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时06分 ~ 17时41分]"
+        },
+        {
           "title": "消息人士：特朗普媒体向金融机构推销“Truth API”，三年期优惠价每月6万美元。",
           "url": "https://flash.jin10.com/detail/20260718045100973800",
           "source": "金十数据",
@@ -942,15 +1021,27 @@
           "time_info": "[06时00分 ~ 08时03分]"
         },
         {
-          "title": "特朗普支持“兄终妹及”：任期结束后继续参选",
-          "url": "https://news.ifeng.com/c/8ur9XDi7eVj",
-          "source": "凤凰网",
+          "title": "特朗普：因凡蒂诺建议中美合办世界杯",
+          "url": "https://www.douyin.com/hot/2575839",
+          "source": "抖音",
           "ranks": [
-            7
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时06分 ~ 15时03分]"
+          "appearance_count": 3,
+          "time_info": "[15时03分 ~ 17时41分]"
+        },
+        {
+          "title": "分析｜轰炸、备忘录双双失效，特朗普还有C计划吗？专家：美国已陷入“战略死胡同”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33605316",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时03分 ~ 17时41分]"
         },
         {
           "title": "特朗普再谈巴洛贡红牌事件",
@@ -1019,17 +1110,6 @@
           "time_info": "04时11分"
         },
         {
-          "title": "特朗普：因凡蒂诺建议中美合办世界杯",
-          "url": "https://www.douyin.com/hot/2575839",
-          "source": "抖音",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时03分"
-        },
-        {
           "title": "美国总统特朗普：已邀请Darline Graham参加8月11日举行的共和党特别参议员初选。",
           "url": "https://flash.jin10.com/detail/20260718031740689800",
           "source": "金十数据",
@@ -1039,17 +1119,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时11分"
-        },
-        {
-          "title": "分析｜轰炸、备忘录双双失效，特朗普还有C计划吗？专家：美国已陷入“战略死胡同”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33605316",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时03分"
         },
         {
           "title": "特朗普媒体科技集团提议，对“Truth API”收取10万美元的月租。（英国金融时报）",
@@ -1088,7 +1157,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
@@ -1102,6 +1171,19 @@
           "time_info": "[00时21分 ~ 07时01分]"
         },
         {
+          "title": "美股收盘：三大指数集体收跌 费城半导体指数进入熊市 存储板块冲高回落",
+          "url": "https://www.cls.cn/detail/2430055",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时01分 ~ 17时41分]"
+        },
+        {
           "title": "科技股抛售潮蔓延，美股低开，纳指跌1.8%，半导体板块领跌，布油涨3%，黄金失守4000美元",
           "url": "https://wallstreetcn.com/articles/3777186",
           "source": "华尔街见闻",
@@ -1113,17 +1195,15 @@
           "time_info": "[00时21分 ~ 06时00分]"
         },
         {
-          "title": "美股收盘：三大指数集体收跌 费城半导体指数进入熊市 存储板块冲高回落",
-          "url": "https://www.cls.cn/detail/2430055",
-          "source": "财联社热门",
+          "title": "如何甄别美股的漂亮话",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%94%84%E5%88%AB%E7%BE%8E%E8%82%A1%E7%9A%84%E6%BC%82%E4%BA%AE%E8%AF%9D",
+          "source": "bilibili 热搜",
           "ranks": [
-            5,
-            4,
-            3
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时01分 ~ 15时03分]"
+          "appearance_count": 2,
+          "time_info": "[17时40分 ~ 17时41分]"
         },
         {
           "title": "美股存储芯片指数本周跌超17%，较收盘历史最高位已回撤超31%",
@@ -1195,7 +1275,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时03分"
         },
@@ -1209,6 +1289,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时12分"
+        },
+        {
+          "title": "Kimi K3引发美股震荡 月之暗面有望最快6个月内赴港上市",
+          "url": "https://wallstreetcn.com/livenews/3135984",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时41分"
         },
         {
           "title": "美股收盘：三大股指低收，芯片股涨跌不一",
@@ -1236,8 +1327,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时03分 ~ 15时03分]"
+          "appearance_count": 5,
+          "time_info": "[08时03分 ~ 17时41分]"
         },
         {
           "title": "DeepSeek准确估值意外曝光",
@@ -1246,7 +1337,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时03分"
         }
@@ -1328,11 +1419,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时03分 ~ 15时03分]"
+          "appearance_count": 5,
+          "time_info": "[08时03分 ~ 17时41分]"
         }
       ]
     },
