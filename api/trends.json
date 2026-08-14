@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T14:20:45.293765+08:00",
-  "total_titles_processed": 984,
+  "generated_at": "2026-08-14T16:22:52.640859+08:00",
+  "total_titles_processed": 1152,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "深度｜为逼光伏制造回流，特朗普再挥大棒：瞄准对手，反伤自身",
@@ -37,11 +37,12 @@
           "url": "https://news.ifeng.com/c/8vYz7iCdmvg",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时55分 ~ 14时20分]"
+          "appearance_count": 3,
+          "time_info": "[12时55分 ~ 16时22分]"
         },
         {
           "title": "以色列发警报迫使特朗普换飞机，美中情局质疑以方用意",
@@ -78,6 +79,29 @@
           "time_info": "[03时12分 ~ 07时50分]"
         },
         {
+          "title": "特朗普允许美海军海外建造舰船",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%81%E8%AE%B8%E7%BE%8E%E6%B5%B7%E5%86%9B%E6%B5%B7%E5%A4%96%E5%BB%BA%E9%80%A0%E8%88%B0%E8%88%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
+          "title": "最年轻新闻秘书，“弃特朗普而去”",
+          "url": "https://news.ifeng.com/c/8vYyzBPe3bZ",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时29分 ~ 16时22分]"
+        },
+        {
           "title": "特朗普对特定无人机进口加征100%关税",
           "url": "https://flash.jin10.com/detail/20260814054149150800",
           "source": "金十数据",
@@ -102,17 +126,6 @@
           "time_info": "[05时55分 ~ 06时52分]"
         },
         {
-          "title": "最年轻新闻秘书，“弃特朗普而去”",
-          "url": "https://news.ifeng.com/c/8vYyzBPe3bZ",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时29分 ~ 14时20分]"
-        },
-        {
           "title": "美新闻机构起诉特朗普",
           "url": "https://www.douyin.com/hot/2607917",
           "source": "抖音",
@@ -125,6 +138,18 @@
           "time_info": "[05时54分 ~ 06时52分]"
         },
         {
+          "title": "美国政府设备重新允许使用 TikTok，特朗普称其在 TikTok 上长期霸榜，靠它帮助赢下大选，如何解读？",
+          "url": "https://www.zhihu.com/question/2070813507499643585",
+          "source": "知乎",
+          "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时30分 ~ 16时22分]"
+        },
+        {
           "title": "据Axios：特朗普女婿库什纳预计下周前往开罗，与埃及调解人进行会谈。",
           "url": "https://flash.jin10.com/detail/20260814053520853800",
           "source": "金十数据",
@@ -135,6 +160,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时55分 ~ 06时52分]"
+        },
+        {
+          "title": "特朗普下令美海军弃用电磁弹射系统，改回蒸汽弹射",
+          "url": "https://news.ifeng.com/c/8vZxGezuWmE",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 16时22分]"
         },
         {
           "title": "白宫：美国总统特朗普已指示国防部长，在CVN-81航母建造期间，将先进电磁弹射系统和先进武器升降机更换为传统的蒸汽和液压系统。",
@@ -173,18 +210,6 @@
           "time_info": "[05时55分 ~ 06时52分]"
         },
         {
-          "title": "美国政府设备重新允许使用 TikTok，特朗普称其在 TikTok 上长期霸榜，靠它帮助赢下大选，如何解读？",
-          "url": "https://www.zhihu.com/question/2070813507499643585",
-          "source": "知乎",
-          "ranks": [
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时30分 ~ 14时20分]"
-        },
-        {
           "title": "特朗普女婿计划下周访问以色列，就加沙问题进行会谈",
           "url": "https://wallstreetcn.com/livenews/3149316",
           "source": "华尔街见闻-快讯",
@@ -197,17 +222,6 @@
           "time_info": "[05时55分 ~ 06时52分]"
         },
         {
-          "title": "特朗普下令美海军弃用电磁弹射系统，改回蒸汽弹射",
-          "url": "https://news.ifeng.com/c/8vZxGezuWmE",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时20分"
-        },
-        {
           "title": "最高100%关税！特朗普突然对无人机下狠手，俄乌冲突让美国警醒",
           "url": "https://flash.jin10.com/detail/20260814071926003800",
           "source": "金十数据",
@@ -217,6 +231,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
+        },
+        {
+          "title": "美国卫生部长：特朗普专机上有多箱麦当劳，他出门怕食物中毒",
+          "url": "https://news.ifeng.com/c/8va6d6Ijs5m",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         },
         {
           "title": "白宫：美国总统特朗普将对英国输美无人机加征10%从价关税。",
@@ -280,7 +305,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -376,7 +401,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "俱往矣!DeepSeek大幅涨价",
@@ -387,8 +412,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时12分 ~ 14时20分]"
+          "appearance_count": 10,
+          "time_info": "[03时12分 ~ 16时22分]"
         },
         {
           "title": "DeepSeek宣布API涨价，8月17日起峰值价格最高涨至27元，新版V4 Pro正式上线",
@@ -400,8 +425,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时12分 ~ 14时20分]"
+          "appearance_count": 10,
+          "time_info": "[03时12分 ~ 16时22分]"
         },
         {
           "title": "如何评价在 8 月 13 日发布的 DeepSeek Harness？",
@@ -471,6 +496,32 @@
           "time_info": "[10时29分 ~ 10时30分]"
         },
         {
+          "title": "DeepSeek Harness 开发者预览版：一切皆插件",
+          "url": "https://wallstreetcn.com/articles/3779385",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时50分 ~ 16时22分]"
+        },
+        {
+          "title": "DeepSeek发布调价公告",
+          "url": "https://www.douyin.com/hot/2608709",
+          "source": "抖音",
+          "ranks": [
+            5,
+            6,
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时29分 ~ 16时22分]"
+        },
+        {
           "title": "DeepSeek Harness是什么",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E6%98%AF%E4%BB%80%E4%B9%88",
           "source": "bilibili 热搜",
@@ -480,19 +531,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
-        },
-        {
-          "title": "DeepSeek发布调价公告",
-          "url": "https://www.douyin.com/hot/2608709",
-          "source": "抖音",
-          "ranks": [
-            5,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时29分 ~ 14时20分]"
         },
         {
           "title": "DeepSeek智能体曝光！人人用得起的Agent？",
@@ -514,30 +552,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时20分"
-        },
-        {
-          "title": "DeepSeek Harness 开发者预览版：一切皆插件",
-          "url": "https://wallstreetcn.com/articles/3779385",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时50分 ~ 14时20分]"
-        },
-        {
-          "title": "DeepSeek V4 大幅涨价后，现在谁才是你心中的大模型性价比之选？",
-          "url": "https://www.zhihu.com/question/2071361705183899939",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -555,6 +570,18 @@
           "time_info": "[03时12分 ~ 07时50分]"
         },
         {
+          "title": "DeepSeek Harness 来了，它不想做下一个Codex",
+          "url": "https://wallstreetcn.com/articles/3779390",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时29分 ~ 16时22分]"
+        },
+        {
           "title": "梁文锋打新宇树科技 1.8 亿获配 120 万股，账面浮盈或超 7.04 亿元，怎样解读他的这一布局？",
           "url": "https://www.zhihu.com/question/2071189146777773055",
           "source": "知乎",
@@ -568,16 +595,16 @@
           "time_info": "[03时12分 ~ 07时50分]"
         },
         {
-          "title": "DeepSeek Harness 来了，它不想做下一个Codex",
-          "url": "https://wallstreetcn.com/articles/3779390",
-          "source": "华尔街见闻",
+          "title": "DeepSeek V4 大幅涨价后，现在谁才是你心中的大模型性价比之选？",
+          "url": "https://www.zhihu.com/question/2071361705183899939",
+          "source": "知乎",
           "ranks": [
-            10,
-            8
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时29分 ~ 14时20分]"
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 16时22分]"
         },
         {
           "title": "怎么看 DeepSeek Harness 正式开源，采用一切皆插件的架构？",
@@ -633,9 +660,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
+        },
+        {
+          "title": "如何评价 DeepSeek 与北大联合发布的新论文，有哪些亮点？对 Agent 发展有什么影响？",
+          "url": "https://www.zhihu.com/question/2071375581464343126",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         },
         {
           "title": "金山办公“灵犀”接入DeepSeek-V4-Pro正式版，已向用户开放",
@@ -735,6 +773,20 @@
           "time_info": "07时50分"
         },
         {
+          "title": "美防长称可无限期封锁伊朗 美联储官员重申现在必须加息 | 环球市场",
+          "url": "https://www.cls.cn/detail/2454017",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时29分 ~ 16时22分]"
+        },
+        {
           "title": "美国能源部长赖特：美国知道每天有多少艘船只进出霍尔木兹海峡。 每天有800万至900万桶石油经由霍尔木兹海峡运输。 伊朗正试图以全球经济为要挟。 美国护送和运送货物的能力正在增强。 霍尔木兹海峡石油运输量将继续增加。",
           "url": "https://wallstreetcn.com/livenews/3149346",
           "source": "华尔街见闻-快讯",
@@ -759,19 +811,6 @@
           "time_info": "[06时52分 ~ 07时50分]"
         },
         {
-          "title": "美防长称可无限期封锁伊朗 美联储官员重申现在必须加息 | 环球市场",
-          "url": "https://www.cls.cn/detail/2454017",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时29分 ~ 14时20分]"
-        },
-        {
           "title": "伊朗：美若敢用核弹 全球基地将成靶子",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E7%BE%8E%E8%8B%A5%E6%95%A2%E7%94%A8%E6%A0%B8%E5%BC%B9+%E5%85%A8%E7%90%83%E5%9F%BA%E5%9C%B0%E5%B0%86%E6%88%90%E9%9D%B6%E5%AD%90",
           "source": "百度热搜",
@@ -791,8 +830,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时55分 ~ 14时20分]"
+          "appearance_count": 3,
+          "time_info": "[12时55分 ~ 16时22分]"
         },
         {
           "title": "美国财长贝森特：我们正在针对伊朗的全球银行账户实施最大力度的施压，我们采取的施压行动使伊朗银行业崩溃。",
@@ -918,6 +957,103 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "美股收盘：三大指数齐升标普收新高 存储板块走强闪迪涨逾13%",
+          "url": "https://www.cls.cn/detail/2453979",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时52分 ~ 16时22分]"
+        },
+        {
+          "title": "美温和CPI缓解加息压力，光通信领涨美股，Nebius暴涨超34%，美元、黄金齐涨",
+          "url": "https://wallstreetcn.com/articles/3779257",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时12分 ~ 06时52分]"
+        },
+        {
+          "title": "美PPI数据再缓加息压力，美股高开，Cerebras跌12%，金油齐跌",
+          "url": "https://wallstreetcn.com/articles/3779338",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时12分 ~ 06时52分]"
+        },
+        {
+          "title": "Reddit(RDDT.N)美股盘后涨超12%。",
+          "url": "https://flash.jin10.com/detail/20260814053317827800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时55分 ~ 06时52分]"
+        },
+        {
+          "title": "美股三大指数集体高开",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时54分 ~ 05时55分]"
+        },
+        {
+          "title": "应用材料(AMAT.O)股价在美股盘前交易中下跌5%。",
+          "url": "https://flash.jin10.com/detail/20260814160246762800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
+          "title": "美股恐慌指数骤降 华尔街开始警惕",
+          "url": "https://www.toutiao.com/trending/7673504531824512521/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
+          "title": "周四（8月13日），美股行业ETF普遍收涨，房地产ETF涨1.42%，日常消费ETF涨1.07%，半导体ETF涨0.76%，金融精选ETF涨0.56%，太阳能ETF、可选消费ETF、地区银行、公用事业ETF涨0.42%-0.48%不等。医疗保健ETF则微跌0.04%。",
+          "url": "https://wallstreetcn.com/livenews/3149311",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时55分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 6,
       "titles": [
@@ -990,84 +1126,20 @@
       ]
     },
     {
-      "keyword_group": "美股",
+      "keyword_group": "chatgpt openai",
       "match_count": 6,
       "titles": [
         {
-          "title": "美温和CPI缓解加息压力，光通信领涨美股，Nebius暴涨超34%，美元、黄金齐涨",
-          "url": "https://wallstreetcn.com/articles/3779257",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时12分 ~ 06时52分]"
-        },
-        {
-          "title": "美PPI数据再缓加息压力，美股高开，Cerebras跌12%，金油齐跌",
-          "url": "https://wallstreetcn.com/articles/3779338",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时12分 ~ 06时52分]"
-        },
-        {
-          "title": "美股收盘：三大指数齐升标普收新高 存储板块走强闪迪涨逾13%",
-          "url": "https://www.cls.cn/detail/2453979",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时52分 ~ 14时20分]"
-        },
-        {
-          "title": "Reddit(RDDT.N)美股盘后涨超12%。",
-          "url": "https://flash.jin10.com/detail/20260814053317827800",
+          "title": "OpenAI商业化加速：年化收入超400亿美元，7月单月增长超过20%",
+          "url": "https://flash.jin10.com/detail/20260814160403026800",
           "source": "金十数据",
           "ranks": [
-            7,
-            25
+            5
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时55分 ~ 06时52分]"
-        },
-        {
-          "title": "美股三大指数集体高开",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时54分 ~ 05时55分]"
-        },
-        {
-          "title": "周四（8月13日），美股行业ETF普遍收涨，房地产ETF涨1.42%，日常消费ETF涨1.07%，半导体ETF涨0.76%，金融精选ETF涨0.56%，太阳能ETF、可选消费ETF、地区银行、公用事业ETF涨0.42%-0.48%不等。医疗保健ETF则微跌0.04%。",
-          "url": "https://wallstreetcn.com/livenews/3149311",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 5,
-      "titles": [
+          "time_info": "16时22分"
+        },
         {
           "title": "OpenAI 上市前年化营收突破 400 亿美元",
           "url": "https://wallstreetcn.com/livenews/3149336",
@@ -1165,14 +1237,14 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时55分 ~ 14时20分]"
+          "appearance_count": 3,
+          "time_info": "[12时55分 ~ 16时22分]"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "黄金价格反弹意味什么",
@@ -1184,6 +1256,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时29分 ~ 10时30分]"
+        },
+        {
+          "title": "投资者获利了结 金价本周料小幅下跌",
+          "url": "https://flash.jin10.com/detail/20260814155021537800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         }
       ]
     }
