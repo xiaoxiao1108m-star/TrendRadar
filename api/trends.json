@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-08-16T11:08:02.344753+08:00",
-  "total_titles_processed": 557,
+  "generated_at": "2026-08-16T15:37:53.267582+08:00",
+  "total_titles_processed": 755,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 17,
+      "match_count": 28,
       "titles": [
         {
           "title": "伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
           "url": "https://news.ifeng.com/c/8vcIckuO3Db",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时31分 ~ 11时08分]"
+          "appearance_count": 7,
+          "time_info": "[05时31分 ~ 15时37分]"
         },
         {
           "title": "伊朗外长称无意延长停火协议",
@@ -28,6 +29,61 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[05时31分 ~ 11时08分]"
+        },
+        {
+          "title": "伊朗三大权力机构负责人举行会晤",
+          "url": "https://news.ifeng.com/c/8vd393ITLzT",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
+        },
+        {
+          "title": "伊朗武装部队总参谋部：在彻底击败敌人之前，我们绝不会退缩",
+          "url": "https://flash.jin10.com/detail/20260816151427691800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
+        },
+        {
+          "title": "伊朗外交部强烈谴责以色列对黎袭击",
+          "url": "https://wallstreetcn.com/livenews/3150039",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
+        },
+        {
+          "title": "伊朗防空专家：战争爆发至今，我们从没引进国外的武器或系统",
+          "url": "https://news.ifeng.com/c/8vd8ID5xoBc",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗革命卫队表示，卡塔尔应该允许伊朗的专家团队入驻调查失踪的飞行员事件，而不是否认对飞行员采取了拘留措施。",
+          "url": "https://flash.jin10.com/detail/20260816145833255800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
         },
         {
           "title": "伊朗战事延宕 美航母部署时长恐将再刷纪录",
@@ -140,6 +196,39 @@
           "time_info": "[05时32分 ~ 07时27分]"
         },
         {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗军方失踪人员负责人表示，卡塔尔必须允许伊朗空军的调查团进入该国。",
+          "url": "https://flash.jin10.com/detail/20260816144950823800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
+        },
+        {
+          "title": "伊朗外交部强烈谴责以色列对黎袭击",
+          "url": "https://flash.jin10.com/detail/20260816144217334800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
+        },
+        {
+          "title": "伊朗称3名飞行员遭卡塔尔扣押 卡塔尔否认",
+          "url": "https://wallstreetcn.com/livenews/3150030",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
+        },
+        {
           "title": "卡塔尔外交部：在伊朗飞行员侵犯了我们的领空后，我们采取了必要措施捍卫领土。",
           "url": "https://flash.jin10.com/detail/20260816024215110800",
           "source": "金十数据",
@@ -173,6 +262,17 @@
           "time_info": "05时32分"
         },
         {
+          "title": "伊朗称3名飞行员遭卡塔尔扣押 卡塔尔否认",
+          "url": "https://flash.jin10.com/detail/20260816123659202800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
+        },
+        {
           "title": "伊朗外交部：我们重申，必须制止以色列在黎巴嫩南部的侵略行动，并从被占领土上撤军。",
           "url": "https://flash.jin10.com/detail/20260816022857035800",
           "source": "金十数据",
@@ -204,13 +304,47 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时32分"
+        },
+        {
+          "title": "伊朗宣布与阿曼达成协议",
+          "url": "https://www.douyin.com/hot/2611104",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
+        },
+        {
+          "title": "伊朗称三名飞行员被卡塔尔活捉",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%A7%B0%E4%B8%89%E5%90%8D%E9%A3%9E%E8%A1%8C%E5%91%98%E8%A2%AB%E5%8D%A1%E5%A1%94%E5%B0%94%E6%B4%BB%E6%8D%89%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土” | 环球市场",
+          "url": "https://www.cls.cn/detail/2455058",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[05时31分 ~ 15时37分]"
+        },
         {
           "title": "特朗普誓言美航母重回锅气时代",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AA%93%E8%A8%80%E7%BE%8E%E8%88%AA%E6%AF%8D%E9%87%8D%E5%9B%9E%E9%94%85%E6%B0%94%E6%97%B6%E4%BB%A3",
@@ -224,27 +358,37 @@
           "time_info": "[09时47分 ~ 11时08分]"
         },
         {
-          "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土” | 环球市场",
-          "url": "https://www.cls.cn/detail/2455058",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时31分 ~ 11时08分]"
-        },
-        {
           "title": "美国总统特朗普：参议院必须尽快投票通过《不再改变时钟法案》。白天多些阳光总是好的（还能打击犯罪！），但更重要的，别再每年两次荒唐地来回拨时钟和手表了，又混乱又麻烦。赶紧把它搞定！",
           "url": "https://flash.jin10.com/detail/20260816102212922800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时08分"
+        },
+        {
+          "title": "海峡控制权“各说各话”：特朗普放话“拿下”霍尔木兹，伊朗称已与阿曼就通行方案达成协议",
+          "url": "https://wallstreetcn.com/articles/3779521",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
+        },
+        {
+          "title": "特朗普又发旧照，称“与金正恩相处融洽”(图)",
+          "url": "https://news.ifeng.com/c/8vd6r6o7WHm",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
         },
         {
           "title": "据CNN：71%的人认为美国总统特朗普在降低日常商品价格方面的努力还不够，较去年58%的比例有所上升。",
@@ -259,6 +403,17 @@
           "time_info": "[09时47分 ~ 11时08分]"
         },
         {
+          "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土”",
+          "url": "https://www.cls.cn/detail/2455050",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时31分 ~ 15时37分]"
+        },
+        {
           "title": "特朗普：击败伊朗后，将宣布霍尔木兹海峡为美国领土",
           "url": "https://m.thepaper.cn/newsDetail_forward_33787320",
           "source": "澎湃新闻",
@@ -269,17 +424,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时31分 ~ 09时47分]"
-        },
-        {
-          "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土”",
-          "url": "https://www.cls.cn/detail/2455050",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时31分 ~ 07时27分]"
         },
         {
           "title": "美国总统特朗普在社交平台上发布图片，图中他佩戴“Trump 2028”的帽子，并配文“我们将会赢（We are going to win）”。",
@@ -316,12 +460,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时47分 ~ 11时08分]"
+        },
+        {
+          "title": "美媒：应特朗普要求，美国海军正研究重新设计战舰",
+          "url": "https://flash.jin10.com/detail/20260816130111375800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
+        },
+        {
+          "title": "民调：大多数美国选民认为，在特朗普领导下生活状况变得更糟",
+          "url": "https://flash.jin10.com/detail/20260816123425273800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "降幅超50%！英伟达缩减对OpenAI数据中心担保规模",
@@ -330,11 +496,25 @@
           "ranks": [
             5,
             6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[05时31分 ~ 15时37分]"
+        },
+        {
+          "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
+          "url": "https://www.cls.cn/detail/2455237",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7,
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时31分 ~ 11时08分]"
+          "appearance_count": 4,
+          "time_info": "[09时47分 ~ 15时37分]"
         },
         {
           "title": "英伟达拟投资SB Energy 30亿美元，布局OpenAI数据中心",
@@ -342,11 +522,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            6
+            6,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时47分 ~ 11时08分]"
+          "appearance_count": 3,
+          "time_info": "[09时47分 ~ 15时37分]"
         },
         {
           "title": "OpenAI Codex产品负责人：让Sol为你管理一支高效的Luna代理团队。这些模型彼此非常熟悉，能够通力合作，以惊人的速度和效率达成目标。",
@@ -361,18 +542,6 @@
           "time_info": "[05时32分 ~ 07时27分]"
         },
         {
-          "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
-          "url": "https://www.cls.cn/detail/2455237",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时47分 ~ 11时08分]"
-        },
-        {
           "title": "据TheInformation：英伟达(NVDA.O)正在洽谈向SB Energy投资30亿美元，作为OpenAI数据中心交易的一部分。",
           "url": "https://flash.jin10.com/detail/20260816031526828800",
           "source": "金十数据",
@@ -383,12 +552,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时32分 ~ 07时27分]"
+        },
+        {
+          "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
+          "url": "https://wallstreetcn.com/articles/3779526",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "DeepSeek-V4-Pro-0813 已发布，体验下来怎么样？",
@@ -426,6 +606,95 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[05时31分 ~ 11时08分]"
+        },
+        {
+          "title": "“千问办公”首发上线GLM-5.3、DeepSeek V4 Pro两款模型",
+          "url": "https://wallstreetcn.com/livenews/3150028",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "阿贝尔掌舵半年伯克希尔大举增持谷歌、A类股晋升前五重仓，Q2加码航空和房产股",
+          "url": "https://wallstreetcn.com/articles/3779490",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时31分 ~ 05时32分]"
+        },
+        {
+          "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
+          "url": "https://wallstreetcn.com/articles/3779527",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
+        },
+        {
+          "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
+          "url": "https://wallstreetcn.com/livenews/3150029",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
+        },
+        {
+          "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
+          "url": "https://flash.jin10.com/detail/20260816122604848800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美股指小幅收跌，存储、光通信股集体拉升，闪迪涨超7%，金油齐涨，美债跌",
+          "url": "https://wallstreetcn.com/articles/3779437",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时31分 ~ 05时32分]"
+        },
+        {
+          "title": "加息降温压不下收益率，40万亿美债要付出什么代价？",
+          "url": "https://flash.jin10.com/detail/20260816120240152800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
         }
       ]
     },
@@ -442,8 +711,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时31分 ~ 11时08分]"
+          "appearance_count": 7,
+          "time_info": "[05时31分 ~ 15时37分]"
         },
         {
           "title": "高瓴旗下HHLR披露最新美股持仓 二季度增持英伟达",
@@ -451,45 +720,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            10
+            10,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时47分 ~ 11时08分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "阿贝尔掌舵半年伯克希尔大举增持谷歌、A类股晋升前五重仓，Q2加码航空和房产股",
-          "url": "https://wallstreetcn.com/articles/3779490",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时31分 ~ 05时32分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股指小幅收跌，存储、光通信股集体拉升，闪迪涨超7%，金油齐涨，美债跌",
-          "url": "https://wallstreetcn.com/articles/3779437",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时31分 ~ 05时32分]"
+          "appearance_count": 3,
+          "time_info": "[09时47分 ~ 15时37分]"
         }
       ]
     }
