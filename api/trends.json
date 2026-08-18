@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-18T14:55:41.070398+08:00",
-  "total_titles_processed": 700,
+  "generated_at": "2026-08-18T19:32:29.937561+08:00",
+  "total_titles_processed": 916,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 23,
       "titles": [
         {
           "title": "特朗普最新支持率公布",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时42分 ~ 14时55分]"
+          "appearance_count": 3,
+          "time_info": "[12时42分 ~ 19时32分]"
         },
         {
           "title": "特朗普：不着急结束伊朗战争，若阿曼阻碍谈判、将“狠狠轰炸”，伊朗警告转向全面进攻",
@@ -26,8 +26,19 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时42分 ~ 19时32分]"
+        },
+        {
+          "title": "阿曼正和伊朗斡旋，却收到特朗普的轰炸威胁，咋回事？",
+          "url": "https://news.ifeng.com/c/8vgfXfy9cpA",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时42分 ~ 14时55分]"
+          "time_info": "[14时55分 ~ 19时32分]"
         },
         {
           "title": "特朗普要求伊朗举白旗投降",
@@ -63,17 +74,6 @@
           "time_info": "06时45分"
         },
         {
-          "title": "阿曼正和伊朗斡旋，却收到特朗普的轰炸威胁，咋回事？",
-          "url": "https://news.ifeng.com/c/8vgfXfy9cpA",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时55分"
-        },
-        {
           "title": "特朗普：金正恩已回应其对话请求",
           "url": "https://news.ifeng.com/c/8vgIS66EJvG",
           "source": "凤凰网",
@@ -82,8 +82,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时42分 ~ 14时55分]"
+          "appearance_count": 3,
+          "time_info": "[12时42分 ~ 19时32分]"
         },
         {
           "title": "美国议员：特朗普把欺骗到底当美德",
@@ -107,6 +107,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时45分"
+        },
+        {
+          "title": "特朗普还对人民大会堂念念不忘",
+          "url": "https://www.toutiao.com/trending/7674416539562590254/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
         },
         {
           "title": "土耳其总统埃尔多安对美国总统特朗普表示，继续与伊朗对话以充分利用外交途径十分重要，土耳其已准备好为此作出贡献。",
@@ -197,6 +208,17 @@
           "time_info": "06时45分"
         },
         {
+          "title": "美国金融史上最明目张胆的一次？特朗普家族持股加密公司获批银行牌照",
+          "url": "https://www.cls.cn/detail/2456722",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
           "title": "特朗普：伊朗“不会达成我认为必要的那种协议”",
           "url": "https://wallstreetcn.com/livenews/3150694",
           "source": "华尔街见闻-快讯",
@@ -217,6 +239,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
+        },
+        {
+          "title": "特朗普支持率创下其第二任期内新低",
+          "url": "https://www.toutiao.com/trending/7674808450081115711/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
+          "title": "特朗普还对人民大会堂念念不忘",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%98%E5%AF%B9%E4%BA%BA%E6%B0%91%E5%A4%A7%E4%BC%9A%E5%A0%82%E5%BF%B5%E5%BF%B5%E4%B8%8D%E5%BF%98",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
         }
       ]
     },
@@ -224,6 +268,28 @@
       "keyword_group": "伊朗",
       "match_count": 16,
       "titles": [
+        {
+          "title": "伊朗将重拳出击，霍尔木兹海峡上演猫鼠游戏",
+          "url": "https://v.ifeng.com/c/8vfiQsf50xA",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时42分 ~ 19时32分]"
+        },
+        {
+          "title": "美伊60天谈判期届满，伊朗：已决定从防御转向全面进攻",
+          "url": "https://news.ifeng.com/c/8vgY879Eq1Y",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时42分 ~ 19时32分]"
+        },
         {
           "title": "美国屡次“违约”，伊朗强硬派放弃对美幻想，被曝秘密扩军备战“新一轮对抗”",
           "url": "https://wallstreetcn.com/articles/3779592",
@@ -236,28 +302,6 @@
           "time_info": "[06时45分 ~ 14时55分]"
         },
         {
-          "title": "伊朗将重拳出击，霍尔木兹海峡上演猫鼠游戏",
-          "url": "https://v.ifeng.com/c/8vfiQsf50xA",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时42分 ~ 14时55分]"
-        },
-        {
-          "title": "美伊60天谈判期届满，伊朗：已决定从防御转向全面进攻",
-          "url": "https://news.ifeng.com/c/8vgY879Eq1Y",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时42分 ~ 14时55分]"
-        },
-        {
           "title": "为向伊朗革命卫队传话，美国找了谁？",
           "url": "https://news.ifeng.com/c/8vfjQXLe7At",
           "source": "凤凰网",
@@ -265,8 +309,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时42分 ~ 14时55分]"
+          "appearance_count": 3,
+          "time_info": "[12时42分 ~ 19时32分]"
         },
         {
           "title": "强撑颜面：美国派出第三艘航母，伊朗威胁升级冲突",
@@ -319,7 +363,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时55分"
         },
@@ -341,7 +385,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时55分"
         },
@@ -353,8 +397,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时42分 ~ 14时55分]"
+          "appearance_count": 3,
+          "time_info": "[12时42分 ~ 19时32分]"
         },
         {
           "title": "伊朗外长阿拉格齐：伊朗在外交和战场上都取得了成功和胜利。",
@@ -385,7 +429,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时55分"
         },
@@ -396,9 +440,127 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "中东风险推高油价，美股美债齐跌，存储芯片、光通信逆势大涨，黄金涨回4400",
+          "url": "https://wallstreetcn.com/articles/3779603",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时42分 ~ 19时32分]"
+        },
+        {
+          "title": "美股收盘：美债抛售拖累大盘 三大利好推动AI板块逆势走强",
+          "url": "https://www.cls.cn/detail/2456558",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时42分 ~ 14时55分]"
+        },
+        {
+          "title": "30年期美债收益率创2007年以来新高：油价、财政赤字与AI发债共推长端利率上行",
+          "url": "https://wallstreetcn.com/articles/3779638",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时42分 ~ 19时32分]"
+        },
+        {
+          "title": "美债逼近40万亿，美银Hartnett：做多黄金是当下最优解",
+          "url": "https://wallstreetcn.com/articles/3779560",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时45分"
+        },
+        {
+          "title": "美债抛售潮恐持续！华尔街齐拉警报 一文读懂背后推手",
+          "url": "https://www.cls.cn/detail/2457199",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
+          "title": "美债抛售潮加剧！30年期美债收益率创2007年以来最高",
+          "url": "https://www.cls.cn/detail/2456636",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时42分 ~ 14时55分]"
+        },
+        {
+          "title": "全球股债齐挫！30年期美债收益率创07年以来新高，美股盘前科技股普跌，闪迪跌约4%，油价上行、金银走弱",
+          "url": "https://wallstreetcn.com/articles/3779677",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
+          "title": "地产ETF、长端美债ETF收跌超0.8%，领跌美股大类资产类ETF",
+          "url": "https://wallstreetcn.com/livenews/3150682",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时45分"
+        },
+        {
+          "title": "6月英国、日本和中国所持美债规模环比下降",
+          "url": "https://wallstreetcn.com/livenews/3150679",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时45分"
+        },
+        {
+          "title": "中英日在6月均减持美债",
+          "url": "https://flash.jin10.com/detail/20260818041001621800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时45分"
         }
       ]
     },
@@ -435,7 +597,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时55分"
         },
@@ -508,103 +670,8 @@
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "中东风险推高油价，美股美债齐跌，存储芯片、光通信逆势大涨，黄金涨回4400",
-          "url": "https://wallstreetcn.com/articles/3779603",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时42分 ~ 14时55分]"
-        },
-        {
-          "title": "美股收盘：美债抛售拖累大盘 三大利好推动AI板块逆势走强",
-          "url": "https://www.cls.cn/detail/2456558",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时42分 ~ 14时55分]"
-        },
-        {
-          "title": "美债逼近40万亿，美银Hartnett：做多黄金是当下最优解",
-          "url": "https://wallstreetcn.com/articles/3779560",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时45分"
-        },
-        {
-          "title": "30年期美债收益率创2007年以来新高：油价、财政赤字与AI发债共推长端利率上行",
-          "url": "https://wallstreetcn.com/articles/3779638",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时42分 ~ 14时55分]"
-        },
-        {
-          "title": "美债抛售潮加剧！30年期美债收益率创2007年以来最高",
-          "url": "https://www.cls.cn/detail/2456636",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时42分 ~ 14时55分]"
-        },
-        {
-          "title": "地产ETF、长端美债ETF收跌超0.8%，领跌美股大类资产类ETF",
-          "url": "https://wallstreetcn.com/livenews/3150682",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时45分"
-        },
-        {
-          "title": "6月英国、日本和中国所持美债规模环比下降",
-          "url": "https://wallstreetcn.com/livenews/3150679",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时45分"
-        },
-        {
-          "title": "中英日在6月均减持美债",
-          "url": "https://flash.jin10.com/detail/20260818041001621800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时45分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
         {
           "title": "OpenAI锁定4.25GW数据中心容量",
@@ -618,6 +685,17 @@
           "time_info": "12时42分"
         },
         {
+          "title": "OpenAI：还将增加相关提示和控制措施，旨在降低使用环境中的风险，并引导青少年使用有益工具和保护措施。",
+          "url": "https://flash.jin10.com/detail/20260818191028098800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
           "title": "ChatGPT将变“购物车”？零售商专属信用卡发行商携手OpenAI推进AI内购",
           "url": "https://www.cls.cn/detail/2456537",
           "source": "财联社热门",
@@ -627,6 +705,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
+        },
+        {
+          "title": "OpenAI：如果系统估计某人未满18岁，或他们声明年龄在13至17岁之间，他们将自动被放入青少年版ChatGPT。",
+          "url": "https://flash.jin10.com/detail/20260818190848292800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
+          "title": "OpenAI：与CodeAI合作，为首批人工智能一代做准备。",
+          "url": "https://flash.jin10.com/detail/20260818190508770800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "DeepSeek Harness 一下子涌现出那么多插件，有没有大佬给一下推荐？",
+          "url": "https://www.zhihu.com/question/2072103596481683649",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时45分"
+        },
+        {
+          "title": "DeepSeek招聘土木人才释放一个信号",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%8B%9B%E8%81%98%E5%9C%9F%E6%9C%A8%E4%BA%BA%E6%89%8D%E9%87%8A%E6%94%BE%E4%B8%80%E4%B8%AA%E4%BF%A1%E5%8F%B7",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
         }
       ]
     },
@@ -651,23 +779,6 @@
           "source": "微博",
           "ranks": [
             26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "DeepSeek Harness 一下子涌现出那么多插件，有没有大佬给一下推荐？",
-          "url": "https://www.zhihu.com/question/2072103596481683649",
-          "source": "知乎",
-          "ranks": [
-            9
           ],
           "is_new": false,
           "appearance_count": 1,
